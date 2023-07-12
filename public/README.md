@@ -10,7 +10,8 @@
     - [Setup ](#setup-)
     - [Installation ](#installation-)
     - [Usage ](#usage-)
-  - [✍️ Author ](#️-author-)
+  - [✍️ Authors ](#️-authors-)
+    - [👤 **Salwa Ballouti**:](#-salwa-ballouti)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [💖 Show your support ](#-show-your-support-)
@@ -34,7 +35,7 @@
   </ul>
 
 <summary>BackEnd</summary>
-<a href="https://github.com/MICHAELKITH/hello_world_rails_back-end.git">BackEnd is here</a>
+  [BackEnd is here](https://github.com/raihan2bd/hello-world-back-end)
 
 ### Key Features <a name="key-features"></a>
 
@@ -49,7 +50,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites <a name="prerequisites"></a>
 
-In order to run this project you need to setup the back-end using [this repo](https://github.com/MICHAELKITH/hello_world_rails_back-end.git) on your machine, Make sure you have installed [nodejs](https://nodejs.org).
+In order to run this project you need to setup the back-end using [this repo](https://github.com/raihan2bd/hello-world-back-end) on your machine, Make sure you have installed [nodejs](https://nodejs.org).
 
 
 ### Setup <a name="setup"></a>
@@ -57,10 +58,11 @@ In order to run this project you need to setup the back-end using [this repo](ht
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/MICHAELKITH/hello_world_react_front-end.git
+  git clone https://github.com/raihan2bd/hello-world-front-end.git
+```
 
 ```sh
-  cd hello_world_react_front-end
+  cd hello-world-front-end
 ```
 
 
@@ -91,10 +93,11 @@ To run the project, execute the following command:
 
 ## ✍️ Author <a name="authors"></a>
   
-👤 **Author**
-- GitHub: [@githubhandle](https://github.com/MICHAELKITH)
-- Twitter: [@twitterhandle](https://twitter.com/DevMichael11)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michaelkithinji/)
+👤 **Abu Raihan**
+
+- GitHub: [@raihan2bd](https://github.com/raihan2bd)
+- Twitter: [@raihan2bd](https://twitter.com/raihan2bd)
+- LinkedIn: [raihan2bd](https://linkedin.com/in/raihan2bd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
